@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calcular Edad</string>
+    <string-array name="meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string name="dia">Día</string>
+    <string name="anho">Año</string>
+    <string name="instrucciones">Ingresa tu fecha de nacimiento</string>
+    <string name="resultado">Este año cumples...</string>
+    <string name="calcular">Calcular edad</string>
+</resources>
